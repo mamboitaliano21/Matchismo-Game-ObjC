@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../Downloads/PaulCarrCOMP20007Ass1/binarySearch.c">
+   </FileRef>
+   <FileRef
+      location = "group:../../Downloads/PaulCarrCOMP20007Ass1/binarySearch.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../Downloads/PaulCarrCOMP20007Ass1/main.c">
+   </FileRef>
+   <FileRef
+      location = "group:../../Downloads/PaulCarrCOMP20007Ass1/Makefile">
+   </FileRef>
+   <FileRef
+      location = "group:../../Downloads/PaulCarrCOMP20007Ass1/mobs.c">
+   </FileRef>
+   <FileRef
+      location = "group:../../Downloads/PaulCarrCOMP20007Ass1/mobs.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../Downloads/PaulCarrCOMP20007Ass1/oracle.c">
+   </FileRef>
+   <FileRef
+      location = "group:../../Downloads/PaulCarrCOMP20007Ass1/oracle.h">
+   </FileRef>
+   <FileRef
+      location = "group:../../Downloads/PaulCarrCOMP20007Ass1/plot.r">
+   </FileRef>
+   <FileRef
+      location = "group:../../Downloads/PaulCarrCOMP20007Ass1/stack.c">
+   </FileRef>
+   <FileRef
+      location = "group:../../Downloads/PaulCarrCOMP20007Ass1/stack.h">
+   </FileRef>
+</Workspace>
